@@ -4,11 +4,9 @@ Nome do Estudante
 
 Numero do estudante
 
-##Linguagens de programação conhecidas:
+## Linguagens de programação conhecidas:
 
-*C\
-*Javascript\
-*Python\
-*...
-
-
+* C\
+* Javascript\
+* Python\
+* ...
